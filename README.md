@@ -1,4 +1,4 @@
-# BMW-Internship-Case-Study-May
+# Internship-Case-Study-May
 
 Welcome to the *Web & Commerce Analytics Case Study*.<br>
 Your application made us curious to know more about your skills, and we would like to take you to the final step.<br>
