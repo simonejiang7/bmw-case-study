@@ -7,7 +7,7 @@ We wish you good luck and hope you can enjoy the task!<br>
 
 **Problem type:** Customer Segmentation <br>
 
-**Deadline:** 20/5/2023 | 11.59 PM CET
+**Deadline:** 21/5/2023 | 11.59 PM CET
 
 **How to submit:**
 Please send us your code and results in the following formats: Notebook (.py or .ipynb) and HTML **with printed results**. Due to corporate email security restrictions, we may not be able to see your code if you mail it to us. Therefore, please use a file transfer platform like WeTransfer to send us your code/results. Alternatively, if you have a Github account, you can create a private repository and share it with us.
